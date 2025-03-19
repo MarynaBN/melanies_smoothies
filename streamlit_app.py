@@ -45,5 +45,5 @@ if ingredients_list:
         st.success(f'Your Smoothie is ordered, {name_on_order}!', icon="✅")
 
 
-st.text(smoothiefroot_response)
+# st.text(smoothiefroot_response)
 
